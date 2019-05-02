@@ -1,0 +1,15 @@
+.main-card {
+    width: 95%;
+    margin: 20px auto;
+    border-radius: 50px !important;
+}
+
+.main-menu {
+    width: 20%;
+    margin: 0 auto !important;
+}
+
+.main-tip {
+    font-size: 18px !important;
+    width: 33%;
+}
